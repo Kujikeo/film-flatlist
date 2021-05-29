@@ -13,4 +13,4 @@
 Aprendi o conteúdo com esse gênio. Segue o repositorio.
 https://github.com/catalinmiron/react-native-movie-2.0-carousel
 
-[Para quem Precisa entender melhor o GitLab segue o link]
+
